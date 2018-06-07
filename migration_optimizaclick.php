@@ -9,7 +9,7 @@ Version: 2.3
 Plugin URI: http://www.optimizaclick.com/
 */
 
-define("plugin_name", "Optimiza-Plugin-WordPress-master");
+define("plugin_name", "migration_optimizaclick-master");
 
 //FUNCION INICIAL PARA AÑADIR LA OPCION DEL PLUGIN EN EL MENU DE HERRAMIENTAS Y CARGAR OTRAS FUNCIONES
 function migration_admin_menu() 
