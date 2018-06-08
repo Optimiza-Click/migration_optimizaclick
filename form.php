@@ -24,7 +24,7 @@ function create_form($type)
 
 <div class="vc_col-sm-12"><p>[checkbox* checkbox-819 ""] He leído y Acepto la <a target="_blank" href="'.get_home_url().'/'.get_option('slug_proteccion_datos').'">Política de uso de datos</a></p>
 
-<table style="margin: 30px 0px">
+<table class="opt_table_rgpd">
     <tbody>
         <tr>
             <td colspan="2"><b>Información básica protección de datos</b></td>
@@ -72,7 +72,7 @@ function create_form($type)
 <p>[textarea* your-message placeholder "Mensaje"] </p>
 <p>[checkbox* checkbox-819 ""] He leído y Acepto la <a target="_blank" href="'.get_home_url().'/'.get_option('slug_proteccion_datos').'">Política de uso de datos</a></p>
 
-<table style="margin: 30px 0px">
+<table class="opt_table_rgpd">
     <tbody>
         <tr>
             <td colspan="2"><b>Información básica protección de datos</b></td>

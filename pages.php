@@ -271,7 +271,7 @@ Las cookies son pequeños archivos de texto que se instalan en el navegador del 
 '.$nombre_empresa.' procurará en todo momento establecer mecanismos adecuados para obtener el consentimiento del Usuario para la instalación de cookies que lo requieran. No obstante lo anterior, deberá tenerse en cuenta que, de conformidad con la Ley, se entenderá que el Usuario ha dado su consentimiento si modifica la configuración del navegador deshabilitando las restricciones que impiden la entrada de cookies y que el referido consentimiento no será preciso para la instalación de aquellas cookies que sean estrictamente necesarias para la prestación de un servicio expresamente solicitado por el Usuario (mediante registro previo).
 
 A continuación adjuntamos una lista de las cookies principales que '.$nombre_empresa.' está utilizando:
-<table>
+<table class="opt_table_rgpd">
 <tbody>
 <tr>
 <td><strong>Nombre</strong></td>
@@ -369,7 +369,7 @@ return '
 
 <p>A los efectos del cumplimiento del Reglamento General de Protección de Datos (RGPD), se establece la siguiente información:</p>
 
-<table style="text-align: left !important;">
+<table class="opt_table_rgpd">
 <tbody>
 <tr>
 <td>Responsable Tratamiento</td>
