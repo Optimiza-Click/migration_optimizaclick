@@ -22,9 +22,9 @@ function create_form($type)
 
 <div class="vc_col-sm-12"><p>[textarea* your-message placeholder "Mensaje"] </p></div>
 
-<div class="vc_col-sm-12"><p>[checkbox* checkbox-819 ""] He leído y Acepto la <a target="_blank" href="">Política de uso de datos</a></p>
+<div class="vc_col-sm-12"><p>[checkbox* checkbox-819 ""] He leído y Acepto la <a target="_blank" href="'.get_home_url().'/'.get_option('slug_proteccion_datos').'">Política de uso de datos</a></p>
 
-<table>
+<table style="margin: 30px 0px">
     <tbody>
         <tr>
             <td colspan="2"><b>Información básica protección de datos</b></td>
@@ -51,7 +51,7 @@ function create_form($type)
         </tr>
         <tr>
             <td>Adicional</td>
-            <td><a style="text-decoration:underline;" href="" target="_blank">Información adicional, al aceptar </a></td>
+            <td><a style="text-decoration:underline;" href="'.get_home_url().'/'.get_option('slug_proteccion_datos').'" target="_blank">Información adicional, al aceptar </a></td>
         </tr>
     </tbody>
 </table>
@@ -70,16 +70,16 @@ function create_form($type)
 <div class="fusion-one-half fusion-layout-column fusion-spacing-yes"><p>[text* your-phone placeholder "Teléfono"]</p></div>
 <div class="fusion-one-half fusion-layout-column fusion-column-last fusion-spacing-yes"><p>[text your-subject placeholder "Asunto"]</p></div>
 <p>[textarea* your-message placeholder "Mensaje"] </p>
-<p>[checkbox* checkbox-819 ""] He leído y Acepto la <a target="_blank" href="">Política de uso de datos</a></p>
+<p>[checkbox* checkbox-819 ""] He leído y Acepto la <a target="_blank" href="'.get_home_url().'/'.get_option('slug_proteccion_datos').'">Política de uso de datos</a></p>
 
-<table>
+<table style="margin: 30px 0px">
     <tbody>
         <tr>
             <td colspan="2"><b>Información básica protección de datos</b></td>
         </tr>
         <tr>
             <td>Responsable</td>
-            <td></td>
+            <td>'.get_option( 'name_empresa' ).' - '.get_option( 'address_empresa' ).' - '.get_option( 'cif_empresa' ).' - '.get_option( 'register_empresa' ).' - '.get_option( 'email_empresa' ).'</td>
         </tr>
         <tr>
             <td>Finalidad</td>
@@ -99,7 +99,7 @@ function create_form($type)
         </tr>
         <tr>
             <td>Adicional</td>
-            <td><a style="text-decoration:underline;" href="" target="_blank">Información adicional, al aceptar </a></td>
+            <td><a style="text-decoration:underline;" href="'.get_home_url().'/'.get_option('slug_proteccion_datos').'" target="_blank">Información adicional, al aceptar </a></td>
         </tr>
     </tbody>
 </table>
