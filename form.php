@@ -43,7 +43,7 @@ function create_form($type)
         </tr>
         <tr>
             <td>Destinatarios</td>
-            <td>No se cederán datos a terceros</td>
+            <td>No se cederán datos a terceros salvo a Google y al Grupo Solocal</td>
         </tr>
         <tr>
             <td>Derechos</td>
@@ -91,7 +91,7 @@ function create_form($type)
         </tr>
         <tr>
             <td>Destinatarios</td>
-            <td>No se cederán datos a terceros</td>
+            <td>No se cederán datos a terceros salvo a Google y al Grupo Solocal</td>
         </tr>
         <tr>
             <td>Derechos</td>

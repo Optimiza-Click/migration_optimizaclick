@@ -99,6 +99,7 @@
     width: 100% !important;
     max-width: 100%;
     border-collapse: collapse;
+    margin: 25px 0px;
 }
 
 .opt_table_rgpd tbody {
