@@ -257,9 +257,17 @@ return '
 </ol>
 Mediante este aviso, '.$nombre_empresa.', '.$direccion_empresa.' '.$cif_empresa.' '.$registro_mercantil.' informa a los usuarios del portal web '.$dominio_empresa.' acerca de su política de protección de datos de carácter personal (en adelante, "los Datos Personales") para que los Usuarios determinen, libre y voluntariamente, si desean facilitar a '.$nombre_empresa.' los Datos Personales que se les puedan requerir o que se puedan obtener de los Usuarios con ocasión de la suscripción o alta en algunos de los servicios ofrecidos por '.$nombre_empresa.' en el Portal o a través del Portal. '.$nombre_empresa.' se reserva el derecho a modificar la presente política para adaptarla a novedades legislativas o jurisprudenciales así como a prácticas de la industria.
 
-En dichos supuestos, '.$nombre_empresa.' anunciará en esta página los cambios introducidos con razonable antelación a su puesta en práctica. A los efectos de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, le informamos que los datos recabados en los distintos formularios serán incluidos en un fichero de datos de carácter personal con el fin de tramitar adecuadamente su solicitud, y cuyo destinatario será '.$nombre_empresa.'. '.$nombre_empresa.', como responsable del fichero, garantiza el ejercicio de los derechos de acceso, rectificación, cancelación y oposición de los datos facilitados. Para ello, y con el fin de facilitarle este trámite, bastará con que nos remita un mensaje con su petición, a la dirección electrónica: '.$correo_empresa.'.
+De conformidad con lo dispuesto en el Reglamento General de Protección de Datos, aplicable a partir del 25 de mayo de 2018, norma de aplicación directa en toda la Unión Europea, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, '.$nombre_empresa.' informa que es el Responsable del Tratamiento de los datos personales que pueda facilitar el interesado en cualquier momento y de forma voluntaria, que serán tratados con el fin de gestionar el envío de la información que nos soliciten, facilitar al interesado ofertas de productos y servicios de su interés y mejorar su experiencia de usuario, pudiendo elaborarse, de ser necesario, un perfil comercial, en base a la información facilitada y también para actualizar nuestra base de datos de empresas y profesionales. No se tomarán decisiones automatizadas en base a dicho perfil.
 
-De igual modo, se compromete, en la utilización de los datos incluidos en el fichero, a respetar su confidencialidad y a utilizarlos de acuerdo con la finalidad del fichero. Remitiendo la información solicitada en los formularios, el interesado consiente expresamente el tratamiento y cesión de sus datos a '.$nombre_empresa.', para el cumplimiento de la finalidad arriba indicada.
+Los datos personales proporcionados se conservarán mientras se mantenga la relación mercantil, y no se solicite su supresión por el interesado, solicitando por parte de '.$nombre_empresa.' el consentimiento del interesado para el tratamiento de sus datos y la oferta prospectiva de productos y servicios.
+
+Los datos personales no se cederán a terceros, salvo a otras empresas de grupo para fines administrativos internos y el envío de comunicaciones comerciales que sean del interés del usuario.
+
+Las personas interesadas tienen derecho a acceder a sus datos personales, así como a solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, los datos ya no sean necesarios para los fines que fueron recogidos. También los interesados en determinadas circunstancias podrán oponerse al tratamiento de sus datos.
+
+También tendrá derecho a retirar el consentimiento prestado y a reclamar ante la Autoridad de Control.
+
+Para ejercer sus derechos, el interesado deberá ponerse en contacto mediante comunicación escrita dirigida al Servicio de Atención al Cliente de '.$nombre_empresa.', en el domicilio social arriba indicado, o mediante correo electrónico a la dirección '.$correo_empresa.', adjuntando fotocopia de su DNI u otro documento equivalente acreditativo de su identidad.
 
 De conformidad con el art. 9 de la LSSI, se hace constar que el dominio '.$dominio_empresa.' está inscrito en el Registro Mercantil '.$registro_mercantil.'.
 
@@ -342,20 +350,6 @@ Los contenidos de todo tipo incluidos en la web que se hallan disponibles para e
 <strong>Exclusión de garantías y responsabilidad por enlaces a otras páginas</strong>
 
 La web puede permitir al usuario su acceso por medio de enlaces a otras páginas web. '.$nombre_empresa.' no responde ni hace suyo el contenido de las páginas web enlazadas, ni garantiza la legalidad, exactitud, veracidad y fiabilidad de la información que incluyan. La existencia de un enlace no supondrá la existencia de relación de ningún tipo entre '.$nombre_empresa.' y la titular del sitio enlazado. '.$nombre_empresa.' no tendrá ningún tipo de responsabilidad por infracciones o daños que se causen al usuario o a terceros por el contenido de las páginas web a las que se encuentre unidas por un enlace. Jurisdicción y ley aplicable. Las condiciones de uso y los servicios ofrecidos en la web se rigen por la Ley Española. '.$nombre_empresa.' no tiene control alguno sobre quien o quienes pueden acceder a su web y donde pueden estar emplazados. A pesar de que '.$nombre_empresa.' es consciente de ello, esto no significa que se someta a las jurisdicciones de países extranjeros; en caso de conflicto o reclamación en relación a la web o cualquiera de los servicios por ella prestados, las partes acuerdan someterse expresamente a los juzgados y tribunales de Madrid (España).
-
-<h4>Política de protección de datos de carácter personal</h4>
-
-De conformidad con lo dispuesto en el Reglamento General de Protección de Datos, aplicable a partir del 25 de mayo de 2018, norma de aplicación directa en toda la Unión Europea, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos, Optimizaclick S.L informa que es el Responsable del Tratamiento de los datos personales que pueda facilitar el interesado en cualquier momento y de forma voluntaria, que serán tratados con el fin de gestionar el envío de la información que nos soliciten, facilitar al interesado ofertas de productos y servicios de su interés y mejorar su experiencia de usuario, pudiendo elaborarse, de ser necesario, un perfil comercial, en base a la información facilitada y también para actualizar nuestra base de datos de empresas y profesionales. No se tomarán decisiones automatizadas en base a dicho perfil.
-
-Los datos personales proporcionados se conservarán mientras se mantenga la relación mercantil, y no se solicite su supresión por el interesado, solicitando por parte de Optimizaclick S.L el consentimiento del interesado para el tratamiento de sus datos y la oferta prospectiva de productos y servicios.
-
-Los datos personales no se cederán a terceros, salvo a otras empresas de grupo para fines administrativos internos y el envío de comunicaciones comerciales que sean del interés del usuario.
-
-Las personas interesadas tienen derecho a acceder a sus datos personales, así como a solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, los datos ya no sean necesarios para los fines que fueron recogidos. También los interesados en determinadas circunstancias podrán oponerse al tratamiento de sus datos.
-
-También tendrá derecho a retirar el consentimiento prestado y a reclamar ante la Autoridad de Control.
-
-Para ejercer sus derechos, el interesado deberá ponerse en contacto mediante comunicación escrita dirigida al Servicio de Atención al Cliente de Optimizaclick S.L, en el domicilio social arriba indicado, o mediante correo electrónico a la dirección atencionalcliente@optimizaclick.com, adjuntando fotocopia de su DNI u otro documento equivalente acreditativo de su identidad.
 ';
 
 }
@@ -398,8 +392,8 @@ return '
 </table>
 
 <p><b>Aviso legal</b></p>
-<p>Todos los textos, fotografías, logotipos, cupones, productos, servicios e imágenes visualizadas, así como, en su caso, los mensajes de voz, son recogidos por <b>Optimizaclick S.L. </b> bajo la responsabilidad única y exclusiva del Anunciante, quien es responsable de la veracidad de la información contenida en la página web</p>
-<p>El copyright del diseño y la creación de la web corresponde a Optimizaclick S.L..</p>
+<p>Todos los textos, fotografías, logotipos, cupones, productos, servicios e imágenes visualizadas, así como, en su caso, los mensajes de voz, son recogidos por Optimizaclick S.L. </b> bajo la responsabilidad única y exclusiva del Anunciante, quien es responsable de la veracidad de la información contenida en la página web</p>
+<p>El copyright del diseño y la creación de la web corresponde a Optimizaclick S.L.</p>
 
 ';
 }

@@ -1076,9 +1076,9 @@ function footer_content()
 	
 	echo "<div class='columns_1_3_footer'>";
 	echo '<p style="padding-left: 5%;padding-top: 5px;color:'.get_option( 'footer_font_color' ).'">® '.date("Y").' '.get_option( 'name_empresa' ).' 
-		| <a style="color:'.get_option( 'footer_font_color' ).'" href="'.get_home_url().'/'.get_option('slug_aviso_legal').'">'.get_option('title_aviso_legal').'
+		| <a rel="nofollow" style="color:'.get_option( 'footer_font_color' ).'" href="'.get_home_url().'/'.get_option('slug_aviso_legal').'">'.get_option('title_aviso_legal').'
 		</a>
-		| <a style="color:'.get_option( 'footer_font_color' ).'" href="'.get_home_url().'/'.get_option('slug_proteccion_datos').'">'.get_option('title_proteccion_datos').'
+		| <a rel="nofollow" style="color:'.get_option( 'footer_font_color' ).'" href="'.get_home_url().'/'.get_option('slug_proteccion_datos').'">'.get_option('title_proteccion_datos').'
 		</a>
 		
 		</p>';
@@ -1116,7 +1116,7 @@ function header_content()
 					
 						<?php echo get_option("text_message_cookies"); ?>
 						
-						<strong><a style="text-decoration: underline;color: <?php echo get_option('font_color_cookies'); ?>;" target="_blank" 
+						<strong><a rel="nofollow" style="text-decoration: underline;color: <?php echo get_option('font_color_cookies'); ?>;" target="_blank" 
 						href="<?php echo get_home_url().'/'.get_option('slug_politica_cookies'); ?>"> <?php echo get_option("link_text_cookies"); ?></a></strong>
 						
 						<input type='hidden' value='<?php echo get_option('hide_cookies'); ?>' id='cookie_mode' />
