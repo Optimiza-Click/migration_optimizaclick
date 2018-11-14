@@ -15,7 +15,7 @@ define("plugin_name", "migration_optimizaclick-master");
 function migration_admin_menu() 
 {	
 	//SE AÑADE UNA OPCION EN EL MENU HERRAMIENTAS PARA MOSTRAR LAS OPCIONES DEL PLUGIN
-	$menu = add_menu_page( 'Migration', 'Migration', 'administrator',  'migration', 'migration_form', ' ', 80);
+	$menu = add_menu_page( 'Migration', 'Migration', 'manage_options',  'migration', 'migration_form', ' ', 80);
 	
 	//ACCION PARA CARGAR ESTILOS Y SCRIPTS EN EL ADMINISTRADOR EN LA PAGINA DE MIGRACIÓN
 	add_action( 'admin_print_scripts-' . $menu, 'custom_admin_js' );
