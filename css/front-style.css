@@ -138,3 +138,7 @@
 .opt_table_rgpd tr:nth-child(even) {
     background: #f6f6f6;
 }
+
+.wpcf7-response-output {
+    display: inline-block !important;
+}
