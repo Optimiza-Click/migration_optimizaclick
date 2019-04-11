@@ -123,7 +123,7 @@ function create_form($type)
 	
 	add_post_meta($id, "_locale", "es_ES");
 	
-	$values = array("subject" => 'Contacto "[your-subject]"', "sender"=> '[your-name] <no-reply@mandrillapp.com>', "body" => 'De: [your-name] <[your-email]>
+	$values = array("subject" => 'Contacto "[your-subject]"', "sender"=> '[your-name]', "body" => 'De: [your-name] [your-email]
 
 Teléfono: [your-phone]
 Asunto: [your-subject]
