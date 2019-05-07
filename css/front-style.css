@@ -145,13 +145,14 @@
 
 @media only screen and (max-width: 600px) {
 .opt_table_rgpd {
-font-size: 9px;
-line-height: 12px;
+font-size: 12px;
+line-height: 14px;
 }
 .opt_table_rgpd p {
-font-size: 9px;
-line-height: 12px;
+font-size: 12px;
+line-height: 14px;
 }
 .opt_table_rgpd td {
-padding: 15px 10px;
-}}
+padding: 15px 5px;
+}
+}
